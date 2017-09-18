@@ -65,11 +65,11 @@
         "files": [
             {
                 "name": "MATH 145 - Algebra (Advanced Level)",
-                "url": "files/MATH145.jar"
+                "url": "files/MATH145.pdf"
             },
             {
                 "name": "MATH 147 - Calculus 1 (Advanced Level)",
-                "url": "files/MATH147.jar"
+                "url": "files/MATH147.pdf"
             }
         ]
     }
