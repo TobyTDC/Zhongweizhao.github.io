@@ -1,0 +1,76 @@
+[
+    {
+        "name": "Sorcery",
+        "description": "A Hearthstone-like card game.",
+        "language": "C++, Qt",
+        "background": "img/sorcery/logo.png",
+        "photos": [
+            {
+                "url": "img/sorcery/1.png",
+                "description": "The game begins!"
+            },
+            {
+                "url": "img/sorcery/2.png",
+                "description": "There are lots of minions and spells with various effects in the game."
+            }
+        ]
+    },
+    {
+        "name": "Gomoku",
+        "description": "A strategy board game with AI implemented.",
+        "language": "Java",
+        "background": "img/gomoku/logo.png",
+        "photos": [
+            {
+                "url": "img/gomoku/1.png",
+                "description": "Game start! I am black."
+            },
+            {
+                "url": "img/gomoku/2.png",
+                "description": "White side is an AI implemented with minmax algorithm and Alpha-beta pruning."
+            },
+            {
+                "url": "img/gomoku/3.png",
+                "description": "And I lost to the AI :("
+            }
+        ],
+        "files": [
+            {
+                "name": "Gomoku.jar",
+                "url": "files/Gomoku.jar"
+            }
+        ]
+    },
+    {
+        "name": "Chess",
+        "description": "A strategy board game.",
+        "language": "Java",
+        "background": "img/chess/logo.jpg",
+        "photos": [
+            {
+                "url": "img/chess/1.png",
+                "description": "Red dots give hints of possible moves."
+            },
+            {
+                "url": "img/chess/2.png",
+                "description": "Checkmate!"
+            }
+        ]
+    },
+    {
+        "name": "Lecture Notes",
+        "description": "Lecture notes that I have taken from some courses at the University of Waterloo.",
+        "language": "LaTeX",
+        "background": "img/notes.png",
+        "files": [
+            {
+                "name": "MATH 145 - Algebra (Advanced Level)",
+                "url": "files/MATH145.jar"
+            },
+            {
+                "name": "MATH 147 - Calculus 1 (Advanced Level)",
+                "url": "files/MATH147.jar"
+            }
+        ]
+    }
+]
